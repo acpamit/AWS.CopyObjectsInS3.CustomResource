@@ -3334,11 +3334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v0eyhz\\source\\repos\\Aws.CopyObjectsInS3\\Aws.CopyObjectsInS3\\Aws.CopyObjectsInS3.csproj",
-      "projectName": "Aws.CopyObjectsInS3",
-      "projectPath": "C:\\Users\\v0eyhz\\source\\repos\\Aws.CopyObjectsInS3\\Aws.CopyObjectsInS3\\Aws.CopyObjectsInS3.csproj",
+      "projectUniqueName": "C:\\Users\\v0eyhz\\source\\repos\\AWS.CopyObjectsInS3.CustomResource\\AWSLambda.MoveObjectsBetweenS3\\AWSLambda.MoveObjectsBetweenS3\\AWSLambda.MoveObjectsBetweenS3.csproj",
+      "projectName": "AWSLambda.MoveObjectsBetweenS3",
+      "projectPath": "C:\\Users\\v0eyhz\\source\\repos\\AWS.CopyObjectsInS3.CustomResource\\AWSLambda.MoveObjectsBetweenS3\\AWSLambda.MoveObjectsBetweenS3\\AWSLambda.MoveObjectsBetweenS3.csproj",
       "packagesPath": "C:\\Users\\v0eyhz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v0eyhz\\source\\repos\\Aws.CopyObjectsInS3\\Aws.CopyObjectsInS3\\obj\\",
+      "outputPath": "C:\\Users\\v0eyhz\\source\\repos\\AWS.CopyObjectsInS3.CustomResource\\AWSLambda.MoveObjectsBetweenS3\\AWSLambda.MoveObjectsBetweenS3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -4,10 +4,10 @@
     <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
     <RevDeBugCompilerPath>c:\users\v0eyhz\appdata\local\microsoft\visualstudio\15.0_6e537726\extensions\5f54hhns.izr\tmcc\</RevDeBugCompilerPath>
     <CustomAfterMicrosoftCommonTargets>c:\users\v0eyhz\appdata\local\microsoft\visualstudio\15.0_6e537726\extensions\5f54hhns.izr\tmcc\RevDeBug.ImportAfter.targets</CustomAfterMicrosoftCommonTargets>
-    <RevDeBugActive>false</RevDeBugActive>
+    <RevDeBugActive>True</RevDeBugActive>
     <SaveMetadataAsync>true</SaveMetadataAsync>
     <RevDeBugDisableNuget>true</RevDeBugDisableNuget>
-    <RevDeBugMetadataPath>C:\Users\v0eyhz\Documents\RevDeBug\Aws.CopyObjectsInS3\Metadata\\</RevDeBugMetadataPath>
+    <RevDeBugMetadataPath>C:\Users\v0eyhz\Documents\RevDeBug\AWSLambda.MoveObjectsBetweenS3\Metadata\\</RevDeBugMetadataPath>
     <RevDeBugStateStorageType>LiveRecorder</RevDeBugStateStorageType>
     <isNetCore>true</isNetCore>
     <PublishWithRevDeBug>false</PublishWithRevDeBug>

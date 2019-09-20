@@ -38,12 +38,12 @@ If already installed check if new version is available.
 
 Execute unit tests
 ```
-    cd "Aws.CopyObjectsInS3/test/Aws.CopyObjectsInS3.Tests"
+    cd "AWSLambda.MoveObjectsBetweenS3/test/AWSLambda.MoveObjectsBetweenS3.Tests"
     dotnet test
 ```
 
 Deploy function to AWS Lambda
 ```
-    cd "Aws.CopyObjectsInS3/src/Aws.CopyObjectsInS3"
+    cd "AWSLambda.MoveObjectsBetweenS3/src/AWSLambda.MoveObjectsBetweenS3"
     dotnet lambda deploy-function
 ```
