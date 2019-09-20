@@ -1,2 +1,3 @@
 # AWS.CopyObjectsInS3.CustomResource
-Copying objects in S3 from another S3 using custom resource.
+Copying objects in S3 from another S3 using custom resource.(In C#)
+Custom Resource:
